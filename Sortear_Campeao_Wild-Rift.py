@@ -398,8 +398,3 @@ while on == 1:
     elif menu == "4":
         on += 1
 
-
-                    
-print("Oi")
-#vamos ver
-
